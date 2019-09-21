@@ -1,0 +1,14 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "hyeonseong <hyeonseong.bae@stradvision.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
